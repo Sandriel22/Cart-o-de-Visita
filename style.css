@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.card{
+    width: 400px;
+    height: 200px;
+    padding: 1px 20px;
+    box-sizing: border-box;
+    background: url(./img/backgorund.png) no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cornflowerblue;
+}
+a{
+    text-decoration:none;
+    color: black;
+}
+.instagram{
+list-style-image:url(./img/Insta.png);
+}
+.twitch{
+list-style-image: url(./img/Twitter.png);
+}
+.youtube{
+list-style-image: url(./img/Youtube.png);
+}
